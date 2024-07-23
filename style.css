@@ -4,6 +4,7 @@
 }
 body{
     width: 1200px;
+    margin: 0 auto;
 }
 .header_1{
     background-color: rgb(178 189 189 / 74%);
@@ -45,7 +46,7 @@ body{
 .div_4_3,
 .div_4_4,
 .div_4_5,
-.div_4_6 ,
+.div_4_6,
 .div_4_7,
 .div_4_8{
     background-color: rgb(178 189 189 / 74%);
